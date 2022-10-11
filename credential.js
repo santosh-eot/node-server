@@ -12,5 +12,4 @@ exports.token = async() =>{
     } catch (error) {
         return error
     }
-       
 };
