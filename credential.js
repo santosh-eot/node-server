@@ -4,12 +4,6 @@ const payload = {
     emailAddress: process.env.EMAIL,
     password: process.env.PASSWORD
 }
-// let token = ''
-let token =  async()=>{
-   
-}
-
-// module.exports.token = token
 
 exports.token = async() =>{
     try {
